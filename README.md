@@ -34,7 +34,7 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/winvdaking/url-shortener-nextjs.git
-   cd url-shortener-nextjs
+   cd url-shortener
     ```
 Install dependencies:
 
